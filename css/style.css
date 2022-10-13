@@ -51,3 +51,64 @@ a{
     padding: 16px 20px;
     
 }
+#about{
+    padding: 144px 0;
+    width: 40%;
+    margin:auto;
+}
+#about h2{
+    font-size: 32px;
+    font-weight: bold;
+}
+#about p{
+    font-size: 20px;
+    font-weight: 300;
+    margin-bottom: 10px;
+}
+#about ul{
+    font-size: 16px;
+    padding: 0 0 0 32px;
+}
+.services{
+    background-color: #f8f9fA;
+}
+#services{
+    
+    width: 40%;
+    margin: auto;
+    padding: 144px 0;
+    
+}
+#service h2{
+    font-size: 32px;
+    margin: 0 0 8;
+}
+#services p{
+    font-size: 20px;
+    margin: 0 0 16px;
+}
+#contact{
+    width: 40%;
+    margin: auto;
+    padding: 144px 0;
+}
+#contact h2{
+    font-size: 32px;
+    font-weight: bold;
+    margin: 0 0 8px;
+}
+#contact p{
+    font-size: 20px;
+    margin: 0 0 16px;
+}
+footer{
+    width: 100%;
+    margin: auto;
+    padding:48px 0 ;
+    color: #fff;
+    background-color: #212529;
+}
+.footer{
+    text-align: center;
+    background-color: #212529;
+}
